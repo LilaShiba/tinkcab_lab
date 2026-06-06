@@ -1,101 +1,45 @@
-
 /* =========================
-   Tinker CAD Studio Styles
-   Custom Just the Docs theme overrides
+   SAFE Just the Docs Overrides
+   (prevents giant UI issues)
 ========================= */
 
-/* --- Global typography tweaks --- */
-body {
-  font-size: 16px;
-  line-height: 1.65;
-}
-
-/* Make headings a bit tighter and cleaner */
-h1, h2, h3 {
-  letter-spacing: -0.02em;
-}
-
-/* --- Lesson layout spacing --- */
+/* ONLY adjust readability slightly */
 .main-content {
-  padding-bottom: 4rem;
+  font-size: 1rem; /* DO NOT change body or html */
+  line-height: 1.6;
 }
 
-/* --- Details / Expandable steps --- */
+/* Headings - subtle tweak only */
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+/* Details blocks */
 details {
   border: 1px solid #e5e7eb;
-  border-radius: 12px;
+  border-radius: 10px;
   margin: 1rem 0;
-  overflow: hidden;
-  background: #ffffff;
-  transition: all 0.2s ease;
-}
-
-details:hover {
-  border-color: #cbd5e1;
+  background: #fff;
 }
 
 summary {
-  cursor: pointer;
-  padding: 0.9rem 1rem;
+  padding: 0.8rem 1rem;
   font-weight: 600;
   background: #f8fafc;
-  list-style: none;
 }
 
-summary::-webkit-details-marker {
-  display: none;
-}
-
-details[open] summary {
-  border-bottom: 1px solid #e5e7eb;
-}
-
-/* --- Pre blocks inside steps --- */
+/* Pre blocks */
 pre {
-  margin: 0;
-  padding: 1rem 1.2rem;
+  padding: 1rem;
   background: #f9fafb;
-  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-  font-size: 0.95rem;
   white-space: pre-wrap;
+  font-size: 0.95rem;
 }
 
-/* --- Lists --- */
-ul, ol {
-  padding-left: 1.4rem;
-}
-
-/* --- Design “callout feel” without plugins --- */
-h2 {
-  margin-top: 2rem;
-  border-left: 4px solid #3b82f6;
-  padding-left: 0.6rem;
-}
-
-/* --- Tech Demo section styling --- */
+/* Optional callouts */
 .tech-demo {
   background: #ecfeff;
   border-left: 4px solid #06b6d4;
   padding: 1rem;
   border-radius: 10px;
-  margin-top: 2rem;
-}
-
-/* --- Final thought styling --- */
-.final-thought {
-  margin-top: 3rem;
-  padding: 1.2rem;
-  text-align: center;
-  font-size: 1.05rem;
-  color: #374151;
-  border-top: 1px solid #e5e7eb;
-}
-
-/* --- Improve buttons / links --- */
-a {
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
 }
