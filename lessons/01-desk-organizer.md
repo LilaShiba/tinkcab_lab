@@ -11,7 +11,7 @@ Design a **3D desk organizer** in **Tinkercad**.
 
 At the end, present a short tech demo.
 
-Your design should solve real problems and reflect the kind of user you choose.
+Your design should solve real problems and reflect the type of user you choose.
 
 ---
 
@@ -31,7 +31,7 @@ Good design isn't just making objects.
 
 ## Step 1 — Choose a User Type
 
-Pick a type of student to design for. Be prepared to explain your choice to the class.
+Pick a student type to design for. Be ready to explain your choice to the class.
 
 - 🌀 Messy Creator
 - ⚡ Multi-Tasker
@@ -68,7 +68,7 @@ Your design should match your user.
 <pre>
 • Show your idea to 3 classmates
 • Collect 3 pros and 3 cons
-• What changes will you make?
+• What would you change?
 </pre>
 </details>
 
@@ -76,9 +76,9 @@ Your design should match your user.
 <summary><strong>Step 5 — Build in Tinkercad</strong></summary>
 
 <pre>
-• Big shapes first
-• Compartments second
-• Details last
+• Start with big shapes
+• Add compartments next
+• Add details last
 </pre>
 </details>
 
@@ -96,15 +96,19 @@ Your design should match your user.
 
 ## Tech Demo
 
-⏱️ 90 seconds max
-
+<details>
+<summary>⏱️ 90 seconds max</summary>
+<pre>
 - Your user type  
-- One design decision  
+- One design decision you made  
 - How feedback changed your design  
 - Why it matters  
+</pre>
+</details>
 
----
 
 ## Final Thought
 
-Objects shape people and experiences. What objects have shaped you?
+Objects shape people and experiences.
+
+What objects have shaped you?
