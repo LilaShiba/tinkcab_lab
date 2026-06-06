@@ -2,9 +2,8 @@
 title: Desk Organizer Challenge
 layout: default
 nav_order: 1
-parent: Unit 1 - Design
+parent: Unit 1
 ---
-
 
 ## ✨ Your Challenge ✨
 

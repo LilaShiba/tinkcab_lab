@@ -2,7 +2,7 @@
 title: Tinkercad Basics
 layout: default
 nav_order: 2
-parent: Unit 1 - Design
+parent: Unit 1
 ---
 
 # 🧱 Tinkercad Basics
