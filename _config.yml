@@ -2,20 +2,20 @@ title: Tinker CAD Studio
 description: Design • Build • Think
 
 remote_theme: just-the-docs/just-the-docs
-
 plugins:
   - jekyll-remote-theme
+  
+url: "https://lilaShiba.github.io"
 
-# IMPORTANT: must match your repo name exactly OR be ""
-baseurl: "/LilaShiba"
-url: "https://lilashiba.github.io"
-
-# Enables search (Just the Docs uses this)
-search_enabled: true
-
-# Good defaults for lesson sites
 markdown: kramdown
 highlighter: rouge
 
-# Sidebar / navigation behavior
-nav_sort: case_sensitive
+
+# Custom CSS file link
+assets:
+  - "styles.css"
+# Remove Default Headers  
+header_pages: []
+title: false
+minima:
+  nav_pages: []
