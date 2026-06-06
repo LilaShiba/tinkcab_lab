@@ -1,17 +1,26 @@
 /* =========================
-   SAFE Just the Docs Overrides
-   (prevents giant UI issues)
+   SAFE RESET (Just the Docs)
+   Fixes oversized font issue
 ========================= */
 
-/* ONLY adjust readability slightly */
+/* DO NOT touch html or body font-size */
+
 .main-content {
-  font-size: 1rem; /* DO NOT change body or html */
+  font-size: 1rem;
   line-height: 1.6;
 }
 
-/* Headings - subtle tweak only */
-h1, h2, h3 {
-  letter-spacing: -0.01em;
+/* Headings ONLY slight tuning */
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.2rem;
 }
 
 /* Details blocks */
@@ -28,7 +37,7 @@ summary {
   background: #f8fafc;
 }
 
-/* Pre blocks */
+/* Code / pre blocks */
 pre {
   padding: 1rem;
   background: #f9fafb;
@@ -36,7 +45,7 @@ pre {
   font-size: 0.95rem;
 }
 
-/* Optional callouts */
+/* Optional highlight block */
 .tech-demo {
   background: #ecfeff;
   border-left: 4px solid #06b6d4;

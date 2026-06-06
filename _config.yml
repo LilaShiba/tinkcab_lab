@@ -6,11 +6,16 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
+# IMPORTANT: must match your repo name exactly OR be ""
+baseurl: "/LilaShiba"
+url: "https://lilashiba.github.io"
+
+# Enables search (Just the Docs uses this)
 search_enabled: true
 
-url: "https://lilashiba.github.io"
-baseurl: "/LilaShiba"
-
+# Good defaults for lesson sites
 markdown: kramdown
 highlighter: rouge
 
+# Sidebar / navigation behavior
+nav_sort: case_sensitive
