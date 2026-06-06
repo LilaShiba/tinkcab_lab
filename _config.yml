@@ -8,21 +8,9 @@ plugins:
 
 search_enabled: true
 
-baseurl: "/LilaShiba"   # or "" if root site
+url: "https://lilashiba.github.io"
+baseurl: "/LilaShiba"
 
-color_scheme: dark
+markdown: kramdown
+highlighter: rouge
 
-url: "https://lilaShiba.github.io"
-
-# markdown: kramdown
-# highlighter: rouge
-
-
-# # Custom CSS file link
-# assets:
-#   - "styles.css"
-# # Remove Default Headers  
-# header_pages: []
-# title: false
-# minima:
-#   nav_pages: []
