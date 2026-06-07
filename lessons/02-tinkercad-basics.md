@@ -1,7 +1,7 @@
 ---
-title: TinkerCad
+title: Tinker Cad Basics
 layout: default
-nav_order: 3
+nav_order: 1
 parent: Home
 ---
 # 🧱 Tinkercad Basics

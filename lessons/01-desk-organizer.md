@@ -1,8 +1,7 @@
 ---
 title: Design Challenge
 layout: default
-nav_order: 2
-parent: Desk Organizer Challenge
+nav_order: 1
 ---
 
 ## ✨ Your Challenge ✨

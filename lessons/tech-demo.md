@@ -1,8 +1,7 @@
 ---
-title: TechDemo
+title: Tech Demo
 layout: default
-nav_order: 4
-parent: Home
+nav_order: 1
 ---
 ## 🚀 Tech Demo
 
