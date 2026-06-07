@@ -6,17 +6,30 @@ nav_order: 1
 
 # 🧑‍🎨 Tinker CAD Studio
 
-Welcome.
+Design • Build • Think
 
-Choose a unit to begin:
+---
 
+## 🚀 Start Here
 
-## Lessons
+Begin with your first design challenge.
 
-- [Desk Organizer Challenge](/tinkcab_lab/lessons/01-desk-organizer)
-- [Tech Demo](/tinkcab_lab/lessons/tech-demo)
+👉 Open [Step One: Design Challenge]({{ '/lessons/01-desk-organizer' | relative_url }}) to start building.
 
+---
 
-## ✨ Start Here
+## 📚 Lessons
 
-👉 Open **Desk Organizer Challenge** to begin your first build.
+- [Design Challenge]({{ '/lessons/01-desk-organizer' | relative_url }})
+- [Tech Demo]({{ '/lessons/tech-demo' | relative_url }})
+- [Tinker Cad CMDs]({{ '/lessons/tech-demo' | relative_url }})
+
+---
+
+## ✨ How this works
+
+1. Design your organizer  
+2. Reflect on your choices  
+3. Present your tech demo  
+
+Each lesson builds on the last.
