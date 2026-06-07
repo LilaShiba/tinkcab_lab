@@ -1,4 +1,29 @@
-<script src="{{ '/assets/js/persist.js' | relative_url }}"></script>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% include head.html %}
+
+  <!-- Your custom CSS override hook (optional) -->
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+</head>
+
 <body>
-  {{ content }}
+
+  <!-- Just-the-Docs sidebar + nav -->
+  {% include sidebar.html %}
+
+  <div class="main-content">
+    {% include header.html %}
+
+    <main id="main-content">
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+  </div>
+
 </body>
+</html>
