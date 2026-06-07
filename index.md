@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: default
 nav_order: 1
 ---
 
@@ -10,16 +10,12 @@ Welcome.
 
 Choose a unit to begin:
 
----
 
-## 📚 Units
+## Lessons
 
-- 🧠 Unit 1 — Design Thinking
-- 🧱 Unit 2 — Building in Tinkercad
-- 🔍 Unit 3 — Testing & Feedback
-- 🚀 Unit 4 — Final Project
+- [Desk Organizer Challenge](/tinkcab_lab/lessons/01-desk-organizer)
+- [Tech Demo](/tinkcab_lab/lessons/tech-demo)
 
----
 
 ## ✨ Start Here
 
