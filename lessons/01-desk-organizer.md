@@ -6,145 +6,223 @@ nav_order: 2
 
 ## ✨ Your Challenge ✨
 
-- Create a proof of concept, and deliver it in a 90-second pitch.
+Create a proof of concept and deliver it in a **90-second pitch**.
+
+Your goal is to quickly test an idea, gather feedback, and improve it.
+
+---
 
 ## ✅ Success Criteria
 
-- ✏️ Hold writing tools
+<h3>Progress</h3>
+
+<progress id="progress" value="0"></progress>
+<span id="count"></span>
+
+<br><br>
+
+<label><input type="checkbox" id="problem">
+Identifies a real problem</label><br>
+
+<label><input type="checkbox" id="user">
+Designs for a specific user</label><br>
+
+<label><input type="checkbox" id="prototype">
+Creates a proof of concept</label><br>
+
+<label><input type="checkbox" id="feedback">
+Uses peer feedback</label><br>
+
+<label><input type="checkbox" id="pitch">
+Delivers a 90-second pitch</label><br>
+
 <br>
-- 📎 Hold small objects
-<br>
-- ⭐ Hold one personal item
-<br>
-- ✅ Match your user type
-<br>
-- ✅ Show changes based on feedback
-<br>
+
 **Good design makes objects that shape people through experience.**
 
-<br>
+---
 
 ## Step 1 — User Type
+
 <details>
-<summary><strong>Pick who you’re designing for</strong></summary>
+<summary><strong>Who are you designing for?</strong></summary>
+
+Choose a user:
 
 - 🌀 Messy Creator
-<br>
 - ⚡ Multi-Tasker
-<br>
 - 🧘 Minimalist
-<br>
 - ✍️ Custom (five words)
-<br>
+
+Why did you choose this user?
+
 <textarea class="persist" data-step="step1" rows="4"></textarea>
+
 </details>
 
 <br>
 
-## Step 2 — Desk Analysis
-<details>
-<summary><strong>Think about your current desk setup</strong></summary>
+## Step 2 — Find a Problem
 
-What do I use most? 
-<br>
-What gets lost? 
-<br>
-What annoys me? 
-<br>
-What problems are worth solving?
-<br>
+<details>
+<summary><strong>Study your current desk setup</strong></summary>
+
+Think about:
+
+- What do I use most?
+- What gets lost?
+- What annoys me?
+- What problem is worth solving?
+
 <textarea class="persist" data-step="step2" rows="6"></textarea>
+
 </details>
 
 <br>
 
-## Step 3 — Planning
+## Step 3 — Create a Proof of Concept
+
 <details>
-<summary><strong>Create Proof of Concept</strong></summary>
+<summary><strong>Build a quick version of your idea</strong></summary>
 
-Don't worry about making it perfect.
-<br>
-In 5 minutes, create a quick version of your idea using **one** of the following:
-<br>
-- ✏️ A sketch
-<br>
-- 📦 A model made from classroom materials
-<br>
-- 💻 A rough Tinkercad design
-<br>
-Your proof of concept should answer one question:
-<br>
+You have 5 minutes.
 
-> How will your organizer solve the problem you identified?
-<br>
-**Focus on function, not appearance.**
-<br>
-Please answer which method you picked. How does it prove useful for your user?
+Use ONE of the following:
+
+- ✏️ Sketch
+- 📦 Model made from classroom materials
+- 💻 Rough Tinkercad design
+
+Your proof of concept should answer:
+
+> How will your design solve the problem you identified?
+
+Focus on function, not appearance.
+
+Which method did you choose? How does it help your user?
 
 <textarea class="persist" data-step="step3" rows="6"></textarea>
+
 </details>
+
 <br>
 
+## Step 4 — Gather Feedback
 
-## Step 4 — Feedback
 <details>
-<summary><strong>Collect peer feedback</strong></summary>
+<summary><strong>Collect feedback from classmates</strong></summary>
 
-Pitch your idea to three classmates:
-<br>
-- 3 strengths
-<br>
-- 3 weaknesses
-<br>
-- What surprised you?
-<br>
-- What would you change?
-<br>
-<textarea class="persist" data-step="step4" rows="6"></textarea>
+Show your idea to three classmates.
+
+Record:
+
+- Three strengths
+- Three weaknesses
+- What surprised you
+- What you would change
+
+<textarea class="persist" data-step="step4" rows="8"></textarea>
+
 </details>
-<br>
+
 <br>
 
---- 
+## Step 5 — Revise Your Idea
+
+<details>
+<summary><strong>Improve your design</strong></summary>
+
+Based on the feedback:
+
+- What changes will you make?
+- Which suggestions were most useful?
+- What will you keep the same?
+
+<textarea class="persist" data-step="step5" rows="6"></textarea>
+
+</details>
+
+<br>
+
+---
 
 ## 🚧 If You're Stuck
+
 <details>
-<summary><strong>Simple strategies to restart</strong></summary>
-<br>
-Keep the user in mind
-<br>
-Add one compartment at a time
-<br> 
-duplicate shapes for rapid prototyping.
-<br>
-ask a classmate
-<br>
- keep it simple
-<br>
+<summary><strong>Strategies for getting unstuck</strong></summary>
+
+- Focus on the user
+- Solve one problem first
+- Start with one simple shape
+- Duplicate instead of rebuilding
+- Ask a classmate for ideas
+- Keep it simple
+
 </details>
 
 <br>
 
 ## ⭐ Bonus Challenge
-<details>
-<summary><strong>Push your design further</strong></summary>
 
-- Hold a phone
-<br>
-- Save desk space
-<br>
-- Stack it
-<br>
-- Use it two ways
+<details>
+<summary><strong>Push your idea further</strong></summary>
+
+Can your design:
+
+- Save desk space?
+- Be used in two ways?
+- Solve more than one problem?
+- Adapt to different users?
 
 <textarea class="persist" data-step="bonus" rows="5"></textarea>
+
 </details>
+
 <br>
 
 ---
 
+## 🎤 Tech Demo
+
+<details>
+<summary><strong>⏱️ 90 seconds maximum</strong></summary>
+
+Explain:
+
+- Who your user is
+- What problem you identified
+- One design decision you made
+- How feedback improved your idea
+- Why it matters
+
+</details>
+
+<br>
+
+---
+
+## Reflection
+
+What would you improve if you had another day?
+
+<textarea class="persist" data-step="reflection" rows="5"></textarea>
+
+<br>
+
+---
+
+## Final Thought
+
+Objects shape people and experiences.
+
+**What objects have shaped you?**
+
+---
+
 ## 🚀 Finish
+
 <button id="submitBtn">Finish & Submit</button>
+
 <p id="status"></p>
 
 <script src="{{ '/assets/js/persist.js' | relative_url }}"></script>
