@@ -7,13 +7,19 @@ parent: Unit 1
 
 ## ✨ Your Challenge ✨
 - Design a **3D desk organizer** in **Tinkercad**
+<br>
 - Present a short product pitch
 
 ## ✅ Success Criteria
+
 - ✏️ Hold writing tools
+<br>
 - 📎 Hold small objects
+<br>
 - ⭐ Hold one personal item
+<br>
 - ✅ Match your user type
+<br>
 - ✅ Show changes based on feedback
 
 **Good design makes objects that shape people through experience.**
@@ -24,8 +30,11 @@ parent: Unit 1
 <summary><strong>Pick who you’re designing for</strong></summary>
 
 - 🌀 Messy Creator
+<br>
 - ⚡ Multi-Tasker
+<br>
 - 🧘 Minimalist
+<br>
 - ✍️ Custom (five words)
 
 <textarea class="persist" data-step="step1" rows="4"></textarea>
@@ -36,7 +45,11 @@ parent: Unit 1
 <details>
 <summary><strong>Think about your current desk setup</strong></summary>
 
-What do I use most? What gets lost? What annoys me? What problems are worth solving?
+What do I use most? 
+<br>
+What gets lost? 
+<br>
+What annoys me? What problems are worth solving?
 
 <textarea class="persist" data-step="step2" rows="6"></textarea>
 </details>
@@ -47,7 +60,7 @@ What do I use most? What gets lost? What annoys me? What problems are worth solv
 <summary><strong>Sketch or describe your idea</strong></summary>
 
 Where will things go? What shapes will you use?
-
+<br>
 You can sketch it, describe it in words, or model it out of clay. Choose what helps you think best. Start simple.
 
 <textarea class="persist" data-step="step3" rows="6"></textarea>
@@ -60,24 +73,14 @@ You can sketch it, describe it in words, or model it out of clay. Choose what he
 
 Show your idea to three classmates:
 - 3 strengths
+<br>
 - 3 weaknesses
+<br>
 - What surprised you?
+<br>
 - What would you change?
 
 <textarea class="persist" data-step="step4" rows="6"></textarea>
-</details>
-
-
-## Step 5 — Build & Test
-<details>
-<summary><strong>Refine your design in Tinkercad</strong></summary>
-
-Start simple, then:
-- Add compartments
-- Adjust shapes
-- Improve based on feedback
-
-<textarea class="persist" data-step="step5" rows="6"></textarea>
 </details>
 
 
