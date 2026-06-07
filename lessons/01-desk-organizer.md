@@ -5,7 +5,8 @@ nav_order: 2
 ---
 
 ## ✨ Your Challenge ✨
-- Create a proof of concept deliver in a 90-second product pitch.
+
+- Create a proof of concept, and deliver it in a 90-second pitch.
 
 ## ✅ Success Criteria
 
@@ -62,19 +63,23 @@ What problems are worth solving?
 <summary><strong>Create Proof of Concept</strong></summary>
 
 Don't worry about making it perfect.
-
+<br>
 In 5 minutes, create a quick version of your idea using **one** of the following:
-
+<br>
 - ✏️ A sketch
+<br>
 - 📦 A model made from classroom materials
+<br>
 - 💻 A rough Tinkercad design
-
+<br>
 Your proof of concept should answer one question:
+<br>
 
 > How will your organizer solve the problem you identified?
-
+<br>
 **Focus on function, not appearance.**
-Please answer which method you picked.
+<br>
+Please answer which method you picked. How does it prove useful for your user?
 
 <textarea class="persist" data-step="step3" rows="6"></textarea>
 </details>
@@ -100,6 +105,7 @@ Pitch your idea to three classmates:
 <br>
 <br>
 
+--- 
 
 ## 🚧 If You're Stuck
 <details>
@@ -135,6 +141,7 @@ ask a classmate
 </details>
 <br>
 
+---
 
 ## 🚀 Finish
 <button id="submitBtn">Finish & Submit</button>
