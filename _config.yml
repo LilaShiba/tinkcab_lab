@@ -7,7 +7,7 @@ plugins:
   - jekyll-remote-theme
 
 url: "https://lilashiba.github.io"
-baseurl: "/tinkcab_lab"   # Change to "" if using username.github.io
+baseurl: "/tinkcab_lab"
 
 search_enabled: true
 
@@ -15,3 +15,6 @@ markdown: kramdown
 highlighter: rouge
 
 color_scheme: dark
+
+aux_links:
+  GitHub Repo: https://github.com/lilashiba/tinkcab_lab
