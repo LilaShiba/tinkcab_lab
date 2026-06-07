@@ -16,27 +16,33 @@ Your goal is to quickly test an idea, gather feedback, and improve it.
 
 <h3>Progress</h3>
 
-<progress id="progress" value="0"></progress>
+<progress id="progress"></progress>
 <span id="count"></span>
 
-<br><br>
+<label>
+<input type="checkbox" id="writing">
+✏️ Hold writing tools
+</label>
 
-<label><input type="checkbox" id="problem">
-Identifies a real problem</label><br>
+<label>
+<input type="checkbox" id="objects">
+📎 Hold small objects
+</label>
 
-<label><input type="checkbox" id="user">
-Designs for a specific user</label><br>
+<label>
+<input type="checkbox" id="personal">
+⭐ Hold one personal item
+</label>
 
-<label><input type="checkbox" id="prototype">
-Creates a proof of concept</label><br>
+<label>
+<input type="checkbox" id="user">
+Match your user type
+</label>
 
-<label><input type="checkbox" id="feedback">
-Uses peer feedback</label><br>
-
-<label><input type="checkbox" id="pitch">
-Delivers a 90-second pitch</label><br>
-
-<br>
+<label>
+<input type="checkbox" id="feedback">
+Show changes based on feedback
+</label>
 
 **Good design makes objects that shape people through experience.**
 
@@ -60,7 +66,7 @@ Why did you choose this user?
 
 </details>
 
-<br>
+
 
 ## Step 2 — Find a Problem
 
