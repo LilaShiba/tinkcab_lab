@@ -1,8 +1,8 @@
 ---
-title: Desk Organizer Challenge
+title: TinkerCad
 layout: default
 nav_order: 3
-parent: Desk Organizer Challenge
+parent: Home
 ---
 # 🧱 Tinkercad Basics
 
