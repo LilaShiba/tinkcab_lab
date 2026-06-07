@@ -5,9 +5,7 @@ nav_order: 2
 ---
 
 ## ✨ Your Challenge ✨
-- Design a **3D desk organizer** in **Tinkercad**
-<br>
-- Present a short product pitch
+- Create a proof of concept deliver in a 90-second product pitch.
 
 ## ✅ Success Criteria
 
@@ -61,11 +59,22 @@ What problems are worth solving?
 
 ## Step 3 — Planning
 <details>
-<summary><strong>Sketch or describe your idea</strong></summary>
+<summary><strong>Create Proof of Concept</strong></summary>
 
-Where will things go? What shapes will you use?
-<br>
-You can sketch it, describe it in words, or model it out of clay. Choose what helps you think best. Start simple.
+Don't worry about making it perfect.
+
+In 5 minutes, create a quick version of your idea using **one** of the following:
+
+- ✏️ A sketch
+- 📦 A model made from classroom materials
+- 💻 A rough Tinkercad design
+
+Your proof of concept should answer one question:
+
+> How will your organizer solve the problem you identified?
+
+**Focus on function, not appearance.**
+Please answer which method you picked.
 
 <textarea class="persist" data-step="step3" rows="6"></textarea>
 </details>
@@ -76,7 +85,8 @@ You can sketch it, describe it in words, or model it out of clay. Choose what he
 <details>
 <summary><strong>Collect peer feedback</strong></summary>
 
-Show your idea to three classmates:
+Pitch your idea to three classmates:
+<br>
 - 3 strengths
 <br>
 - 3 weaknesses
@@ -94,12 +104,12 @@ Show your idea to three classmates:
 ## 🚧 If You're Stuck
 <details>
 <summary><strong>Simple strategies to restart</strong></summary>
-
-Start with one box
 <br>
-add one compartment at a time
+Keep the user in mind
+<br>
+Add one compartment at a time
 <br> 
-duplicate shapes 
+duplicate shapes for rapid prototyping.
 <br>
 ask a classmate
 <br>
