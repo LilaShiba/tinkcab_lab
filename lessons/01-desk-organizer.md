@@ -7,15 +7,12 @@ parent: Unit 1
 
 ## ✨ Your Challenge ✨
 
-Design a **3D desk organizer** in **Tinkercad**.
-
-At the end, present a short tech demo.
-
-Your design should solve real problems and reflect the type of user you choose.
+- Design a **3D desk organizer** in **Tinkercad**.
+- Present a short tech demo.
 
 ---
 
-## Design Brief
+## Design Brief 
 
 Your organizer must:
 
@@ -23,9 +20,7 @@ Your organizer must:
 - 📎 Hold small objects
 - ⭐ Hold one personal item
 
-Good design isn't just making objects.
-
-**It's making objects that shape people and experiences.**
+**Good design makes objects that shape people through experience.**
 
 ---
 
