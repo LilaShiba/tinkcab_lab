@@ -1,10 +1,9 @@
 ---
-title: Tinkercad Basics
+title: Desk Organizer Challenge
 layout: default
-nav_order: 2
+nav_order: 3
 parent: Unit 1
 ---
-
 # 🧱 Tinkercad Basics
 
 Welcome. This lesson is about learning the tools you need to build anything in Tinkercad.

@@ -1,16 +1,42 @@
+/* ===== Sidebar Layout ===== */
 .side-bar {
   width: 140px;
 }
 
+/* Match main content to sidebar */
 .main {
   margin-left: 140px;
 }
 
+/* ===== Branding ===== */
 .site-title {
   font-size: 1.3rem;
+  line-height: 1.2;
+  font-weight: 600;
 }
 
-.nav-list .nav-list-item .nav-list-link {
-  padding-top: 0.3rem;
-  padding-bottom: 0.3rem;
+/* ===== Navigation ===== */
+.nav-list {
+  .nav-list-item {
+    .nav-list-link {
+      padding: 0.35rem 0; // cleaner shorthand
+      font-size: 0.95rem;
+      line-height: 1.4;
+    }
+  }
+}
+
+/* ===== Optional polish (recommended) ===== */
+.side-bar {
+  overflow-y: auto;
+  border-right: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.main {
+  padding: 1.5rem 2rem;
+}
+
+/* Slight hover improvement */
+.nav-list .nav-list-item .nav-list-link:hover {
+  opacity: 0.85;
 }
