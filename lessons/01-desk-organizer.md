@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 ---
 
-## ✨ Your Challenge ✨
+# ✨ Your Challenge ✨
 
 Create a proof of concept and deliver it in a **90-second pitch**.
 
@@ -14,51 +14,31 @@ Your goal is to quickly test an idea, gather feedback, and improve it.
 
 ## ✅ Success Criteria
 
-<h3>Progress</h3>
+<div class="success-criteria-box">
+  <p>Progress: <progress id="progress"></progress> <span id="count"></span></p>
 
-<progress id="progress"></progress>
-<span id="count"></span>
+  <label><input type="checkbox" id="writing"> ✏️ Hold writing tools</label>
+  <label><input type="checkbox" id="objects"> 📎 Hold small objects</label>
+  <label><input type="checkbox" id="personal"> ⭐ Hold one personal item</label>
+  <label><input type="checkbox" id="user"> Match your user type</label>
+  <label><input type="checkbox" id="feedback"> Show changes based on feedback</label>
+</div>
 
-<label>
-<input type="checkbox" id="writing">
-✏️ Hold writing tools
-</label>
-
-<label>
-<input type="checkbox" id="objects">
-📎 Hold small objects
-</label>
-
-<label>
-<input type="checkbox" id="personal">
-⭐ Hold one personal item
-</label>
-
-<label>
-<input type="checkbox" id="user">
-Match your user type
-</label>
-
-<label>
-<input type="checkbox" id="feedback">
-Show changes based on feedback
-</label>
-
-**Good design makes objects that shape people through experience.**
+> **Good design makes objects that shape people through experience.**
 
 ---
 
 ## Step 1 — User Type
 
-<details>
+<details markdown="1">
 <summary><strong>Who are you designing for?</strong></summary>
 
 Choose a user:
 
-- 🌀 Messy Creator
-- ⚡ Multi-Tasker
-- 🧘 Minimalist
-- ✍️ Custom (five words)
+* 🌀 Messy Creator
+* ⚡ Multi-Tasker
+* 🧘 Minimalist
+* ✍️ Custom (five words)
 
 Why did you choose this user?
 
@@ -66,38 +46,32 @@ Why did you choose this user?
 
 </details>
 
-
-
 ## Step 2 — Find a Problem
 
-<details>
+<details markdown="1">
 <summary><strong>Study your current desk setup</strong></summary>
 
 Think about:
 
-- What do I use most?
-- What gets lost?
-- What annoys me?
-- What problem is worth solving?
+* What do I use most?
+* What gets lost?
+* What annoys me?
+* What problem is worth solving?
 
 <textarea class="persist" data-step="step2" rows="6"></textarea>
 
 </details>
 
-<br>
-
 ## Step 3 — Create a Proof of Concept
 
-<details>
+<details markdown="1">
 <summary><strong>Build a quick version of your idea</strong></summary>
 
-You have 5 minutes.
+You have 5 minutes. Use ONE of the following:
 
-Use ONE of the following:
-
-- ✏️ Sketch
-- 📦 Model made from classroom materials
-- 💻 Rough Tinkercad design
+* ✏️ Sketch
+* 📦 Model made from classroom materials
+* 💻 Rough Tinkercad design
 
 Your proof of concept should answer:
 
@@ -111,99 +85,87 @@ Which method did you choose? How does it help your user?
 
 </details>
 
-<br>
-
 ## Step 4 — Gather Feedback
 
-<details>
+<details markdown="1">
 <summary><strong>Collect feedback from classmates</strong></summary>
 
 Show your idea to three classmates.
 
 Record:
 
-- Three strengths
-- Three weaknesses
-- What surprised you
-- What you would change
+* Three strengths
+* Three weaknesses
+* What surprised you
+* What you would change
 
 <textarea class="persist" data-step="step4" rows="8"></textarea>
 
 </details>
 
-<br>
-
 ## Step 5 — Revise Your Idea
 
-<details>
+<details markdown="1">
 <summary><strong>Improve your design</strong></summary>
 
 Based on the feedback:
 
-- What changes will you make?
-- Which suggestions were most useful?
-- What will you keep the same?
+* What changes will you make?
+* Which suggestions were most useful?
+* What will you keep the same?
 
 <textarea class="persist" data-step="step5" rows="6"></textarea>
 
 </details>
 
-<br>
-
 ---
 
 ## 🚧 If You're Stuck
 
-<details>
+<details markdown="1">
 <summary><strong>Strategies for getting unstuck</strong></summary>
 
-- Focus on the user
-- Solve one problem first
-- Start with one simple shape
-- Duplicate instead of rebuilding
-- Ask a classmate for ideas
-- Keep it simple
+* Focus on the user
+* Solve one problem first
+* Start with one simple shape
+* Duplicate instead of rebuilding
+* Ask a classmate for ideas
+* Keep it simple
 
 </details>
 
-<br>
-
 ## ⭐ Bonus Challenge
 
-<details>
+<details markdown="1">
 <summary><strong>Push your idea further</strong></summary>
 
 Can your design:
 
-- Save desk space?
-- Be used in two ways?
-- Solve more than one problem?
-- Adapt to different users?
+* Save desk space?
+* Be used in two ways?
+* Solve more than one problem?
+* Adapt to different users?
 
 <textarea class="persist" data-step="bonus" rows="5"></textarea>
 
 </details>
 
-<br>
-
 ---
 
 ## 🎤 Tech Demo
 
-<details>
+<details markdown="1">
 <summary><strong>⏱️ 90 seconds maximum</strong></summary>
 
 Explain:
 
-- Who your user is
-- What problem you identified
-- One design decision you made
-- How feedback improved your idea
-- Why it matters
+* Who your user is
+* What problem you identified
+* One design decision you made
+* How feedback improved your idea
+* Why it matters
 
 </details>
-
-<br>
 
 ---
 
@@ -212,8 +174,6 @@ Explain:
 What would you improve if you had another day?
 
 <textarea class="persist" data-step="reflection" rows="5"></textarea>
-
-<br>
 
 ---
 

@@ -1,30 +1,35 @@
 document.addEventListener("DOMContentLoaded", () => {
-
-  const boxes = document.querySelectorAll('input[type="checkbox"]');
-  const bar = document.getElementById("progress-bar");
+  const progress = document.getElementById("progress");
   const count = document.getElementById("count");
+  // Target checkboxes cleanly inside the block
+  const boxes = document.querySelectorAll('.success-criteria-box input[type="checkbox"]');
+
+  // Guard clause: Exit silently if these elements aren't present on the page
+  if (!progress || !count || boxes.length === 0) return;
 
   function updateProgress() {
-    const checked = [...boxes].filter(box => box.checked).length;
-    const total = boxes.length;
+    const checked = Array.from(boxes).filter(box => box.checked).length;
 
-    const percent = (checked / total) * 100;
-
-    bar.style.width = `${percent}%`;
-    count.textContent = `${checked}/${total}`;
+    // Fix: Explicitly enforce valid numbers so the browser never drops into an indeterminate animation loop
+    progress.max = boxes.length;
+    progress.value = checked; 
+    
+    count.textContent = `${checked}/${boxes.length}`;
   }
 
   boxes.forEach(box => {
-
-    // restore saved state
-    box.checked = localStorage.getItem(box.id) === "true";
+    // Namespace the storage key so checkboxes don't bleed across different project pages
+    const storageKey = `${window.location.pathname}_${box.id}`;
+    
+    // Restore states safely
+    box.checked = localStorage.getItem(storageKey) === "true";
 
     box.addEventListener("change", () => {
-      localStorage.setItem(box.id, box.checked);
+      localStorage.setItem(storageKey, box.checked);
       updateProgress();
     });
-
   });
 
+  // Calculate immediately on load to set explicit absolute values
   updateProgress();
 });
