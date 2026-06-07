@@ -1,8 +1,8 @@
 ---
-title: Desk Organizer Challenge
+title: Design Challenge
 layout: default
-nav_order: 1
-parent: Unit 1
+nav_order: 2
+parent: Desk Organizer Challenge
 ---
 
 ## ✨ Your Challenge ✨
@@ -21,9 +21,10 @@ parent: Unit 1
 - ✅ Match your user type
 <br>
 - ✅ Show changes based on feedback
-
+<br>
 **Good design makes objects that shape people through experience.**
 
+<br>
 
 ## Step 1 — User Type
 <details>
@@ -36,10 +37,11 @@ parent: Unit 1
 - 🧘 Minimalist
 <br>
 - ✍️ Custom (five words)
-
+<br>
 <textarea class="persist" data-step="step1" rows="4"></textarea>
 </details>
 
+<br>
 
 ## Step 2 — Desk Analysis
 <details>
@@ -49,11 +51,14 @@ What do I use most?
 <br>
 What gets lost? 
 <br>
-What annoys me? What problems are worth solving?
-
+What annoys me? 
+<br>
+What problems are worth solving?
+<br>
 <textarea class="persist" data-step="step2" rows="6"></textarea>
 </details>
 
+<br>
 
 ## Step 3 — Planning
 <details>
@@ -65,6 +70,7 @@ You can sketch it, describe it in words, or model it out of clay. Choose what he
 
 <textarea class="persist" data-step="step3" rows="6"></textarea>
 </details>
+<br>
 
 
 ## Step 4 — Feedback
@@ -79,30 +85,46 @@ Show your idea to three classmates:
 - What surprised you?
 <br>
 - What would you change?
-
+<br>
 <textarea class="persist" data-step="step4" rows="6"></textarea>
 </details>
+<br>
+<br>
 
 
 ## 🚧 If You're Stuck
 <details>
 <summary><strong>Simple strategies to restart</strong></summary>
 
-Start with one box, add one compartment, duplicate shapes, ask a classmate, keep it simple.
+Start with one box
+<br>
+add one compartment at a time
+<br> 
+duplicate shapes 
+<br>
+ask a classmate
+<br>
+ keep it simple
+<br>
 </details>
 
+<br>
 
 ## ⭐ Bonus Challenge
 <details>
 <summary><strong>Push your design further</strong></summary>
 
 - Hold a phone
+<br>
 - Save desk space
+<br>
 - Stack it
+<br>
 - Use it two ways
 
 <textarea class="persist" data-step="bonus" rows="5"></textarea>
 </details>
+<br>
 
 
 ## 🚀 Finish

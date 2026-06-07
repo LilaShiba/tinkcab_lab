@@ -2,7 +2,7 @@
 title: Desk Organizer Challenge
 layout: default
 nav_order: 3
-parent: Unit 1
+parent: Desk Organizer Challenge
 ---
 # 🧱 Tinkercad Basics
 

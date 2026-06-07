@@ -1,8 +1,8 @@
 ---
 title: Tech Demo
 layout: default
-nav_order: 2
-parent: Unit 1
+nav_order: 4
+parent: Desk Organizer Challenge
 ---
 ## 🚀 Tech Demo
 
