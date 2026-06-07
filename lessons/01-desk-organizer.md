@@ -16,15 +16,21 @@ Your goal is to quickly test an idea, gather feedback, and improve it.
 
 <div class="success-criteria-box">
   <p>Progress: <progress id="progress"></progress> <span id="count"></span></p>
-
+  <br>
+  
+  > **Good design makes objects that shape people through experience.**
+  <br>
   <label><input type="checkbox" id="writing"> ✏️ Hold writing tools</label>
+  <br>
   <label><input type="checkbox" id="objects"> 📎 Hold small objects</label>
+    <br>
   <label><input type="checkbox" id="personal"> ⭐ Hold one personal item</label>
+    <br>
   <label><input type="checkbox" id="user"> Match your user type</label>
+    <br>
   <label><input type="checkbox" id="feedback"> Show changes based on feedback</label>
 </div>
 
-> **Good design makes objects that shape people through experience.**
 
 ---
 
