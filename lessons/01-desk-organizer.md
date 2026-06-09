@@ -15,6 +15,14 @@ Your goal is to quickly present an idea, gather feedback, and improve it.
 > A [Proof of Concept](https://asana.com/resources/proof-of-concept) (PoC) simply asks, "Is this idea actually possible to execute?"
 
 
+<div style="text-align:center;">
+  <img
+    src="{{'/assets/PoC-Prototype-MVP.jpg' | relative_url }}"
+    alt="PoC, Prototype, and MVP"
+    style="width:100%; max-width:700px; height:auto;"
+  >
+</div>
+
 ## ✅ Success Criteria
 <br>
 Today we're making Version 1, not Version Perfect.
@@ -155,27 +163,9 @@ Can your design:
 
 </details>
 
----
-
-## 🎤 Tech Demo
-
-<details markdown="1">
-<summary><strong>⏱️ 90 seconds maximum</strong></summary>
-
-Explain:
-
-* Who your user is
-* What problem you identified
-* One design decision you made
-* How feedback improved your idea
-* Why it matters
-
-</details>
-
----
 
 ## Reflection
-br>
+<br>
 What would you improve if you had another day? 
 <br>
 
