@@ -17,10 +17,7 @@ Your goal is to quickly test an idea, gather feedback, and improve it.
 <div class="success-criteria-box">
   <p>Progress: <progress id="progress"></progress> <span id="count"></span></p>
   <br>
-
-  > **Good design makes objects that shape people through experience.**
-  
-  <br>
+    Good design makes objects that shape people through experience.
   <label><input type="checkbox" id="writing"> ✏️ Hold writing tools</label>
   <br>
   <label><input type="checkbox" id="objects"> 📎 Hold small objects</label>
@@ -74,19 +71,15 @@ Think about:
 <details markdown="1">
 <summary><strong>Build a quick version of your idea</strong></summary>
 
-You have 5 minutes. Use ONE of the following:
+You have 5 minutes. Use ONE of the following to quickly show your idea.
 
-* ✏️ Sketch
-* 📦 Model made from classroom materials
-* 💻 Rough Tinkercad design
+Choose one:
 
-Your proof of concept should answer:
+✏️ Sketch it
+📝 Describe it
+🧱 Model it
 
-> How will your design solve the problem you identified?
-
-Focus on function, not appearance.
-
-Which method did you choose? How does it help your user?
+Don't aim for perfection.
 
 <textarea class="persist" data-step="step3" rows="6"></textarea>
 
