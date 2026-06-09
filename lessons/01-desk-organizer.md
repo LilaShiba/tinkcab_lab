@@ -8,12 +8,14 @@ nav_order: 2
 
 Create a proof of concept and deliver it in a **90-second pitch**.
 
-Your goal is to quickly test an idea, gather feedback, and improve it.
+Your goal is to quickly present an idea, gather feedback, and improve it.
 
 ---
 
 ## ✅ Success Criteria
-
+<br>
+Today we're making Version 1, not Version Perfect.
+<br>
 <div class="success-criteria-box">
   <p>Progress: <progress id="progress"></progress> <span id="count"></span></p>
   <br>
