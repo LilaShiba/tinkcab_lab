@@ -12,6 +12,9 @@ Your goal is to quickly present an idea, gather feedback, and improve it.
 
 ---
 
+> A [Proof of Concept](https://asana.com/resources/proof-of-concept) (PoC) simply asks, "Is this idea actually possible to execute?"
+
+
 ## ✅ Success Criteria
 <br>
 Today we're making Version 1, not Version Perfect.
@@ -19,7 +22,6 @@ Today we're making Version 1, not Version Perfect.
 <div class="success-criteria-box">
   <p>Progress: <progress id="progress"></progress> <span id="count"></span></p>
   <br>
-    Good design makes objects that shape people through experience.
   <label><input type="checkbox" id="writing"> ✏️ Hold writing tools</label>
   <br>
   <label><input type="checkbox" id="objects"> 📎 Hold small objects</label>
@@ -72,6 +74,7 @@ Think about:
 
 <details markdown="1">
 <summary><strong>Build a quick version of your idea</strong></summary>
+
 
 You have 5 minutes. Use ONE of the following to quickly show your idea.
 
@@ -172,8 +175,10 @@ Explain:
 ---
 
 ## Reflection
+br>
+What would you improve if you had another day? 
+<br>
 
-What would you improve if you had another day?
 
 <textarea class="persist" data-step="reflection" rows="5"></textarea>
 
